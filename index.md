@@ -4,7 +4,7 @@
         <title>
             YUMMKIN
         </title>
-        <link rel="stylesheet" href="yummkin001.css">
+        <link rel="stylesheet" href="[yummkin001.css](https://github.com/yummkin/yummkin.github.io/blob/main/stylec.css)">
     </head>
     <body>
 
